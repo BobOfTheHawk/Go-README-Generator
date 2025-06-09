@@ -21,8 +21,7 @@ This is the easiest and quickest way to get the tool up and running.
 1.  **Clone the Repository**
     First, download the source code from its repository.
     ```sh
-    # Replace with the actual repository URL
-    git clone [https://github.com/your-repo/go-readme-generator.git](https://github.com/your-repo/go-readme-generator.git)
+    git clone [https://github.com/BobOfTheHawk/Go-README-Generator.git](https://github.com/BobOfTheHawk/Go-README-Generator.git)
     cd go-readme-generator
     ```
 
