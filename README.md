@@ -40,7 +40,6 @@ If you prefer a step-by-step approach or do not have `make`, follow these instru
 
 1.  **Clone the Repository** (if not already done)
     ```sh
-    # Replace with the actual repository URL
     git clone https://github.com/BobOfTheHawk/Go-README-Generator.git
     cd go-readme-generator
     ```
