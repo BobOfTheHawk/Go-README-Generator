@@ -22,7 +22,7 @@ This is the easiest and quickest way to get the tool up and running.
     First, download the source code from its repository.
     ```sh
     git clone https://github.com/BobOfTheHawk/Go-README-Generator.git
-    cd go-readme-generator
+    cd Go-README-Generator
     ```
 
 2.  **Build and Install**
@@ -41,7 +41,7 @@ If you prefer a step-by-step approach or do not have `make`, follow these instru
 1.  **Clone the Repository** (if not already done)
     ```sh
     git clone https://github.com/BobOfTheHawk/Go-README-Generator.git
-    cd go-readme-generator
+    cd Go-README-Generator
     ```
 
 2.  **Build the Go Binary**
