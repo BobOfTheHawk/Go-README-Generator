@@ -78,7 +78,7 @@ This project is [{{.License}}](https://choosealicense.com/licenses/{{.License | 
 {{end}}
 
 ***
-_This README was generated with ❤️ by [Go-README-Generator](https://github.com/your-repo/go-readme-generator)_
+_This README was generated with ❤️ by [Go-README-Generator](https://github.com/BobOfTheHawk/Go-README-Generator.git)_
 `
 
 // GenerateReadme creates the README.md file from the template and answers.
